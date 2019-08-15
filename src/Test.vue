@@ -1,7 +1,7 @@
 <template>
   <div id="test">
     <h1>{{ msg }}</h1>
-  
+    <h2>Hello world</h2>
   </div>
 </template>
 
@@ -23,7 +23,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 
 h1, h2 {
